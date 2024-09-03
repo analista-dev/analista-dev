@@ -61,7 +61,7 @@ practicas. Resolución de problemas y continuo aprendizaje para el crecimiento p
  
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
 	
