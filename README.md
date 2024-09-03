@@ -22,7 +22,7 @@ practicas. Resolución de problemas y continuo aprendizaje para el crecimiento p
 
 
 
-## 🛠️ My Skills
+## 🛠️ Habilidades
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
