@@ -9,9 +9,11 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
-Analista Programador con 2 años de experiencia dedicado a la creación de aplicaciones dinámicas. Mi entusiasmo 
-me impulsa a buscar constantemente las últimas tendencias. Comprometido con el código limpio utilizando buenas 
-practicas. Resolución de problemas y continuo aprendizaje para el crecimiento profesional.
+<p>
+    Analista Programador con 2 años de experiencia dedicado a la creación de aplicaciones dinámicas. Mi entusiasmo 
+    me impulsa a buscar constantemente las últimas tendencias. Comprometido con el código limpio utilizando buenas 
+    practicas. Resolución de problemas y continuo aprendizaje para el crecimiento profesional.
+</p>
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>Contacto
