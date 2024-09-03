@@ -2,14 +2,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Analista+Programador"></a>
 </p>
-<br>
 
-	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Sobre mí
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 Analista Programador con 2 años de experiencia dedicado a la creación de aplicaciones dinámicas. Mi entusiasmo 
 me impulsa a buscar constantemente las últimas tendencias. Comprometido con el código limpio utilizando buenas 
 practicas. Resolución de problemas y continuo aprendizaje para el crecimiento profesional.
