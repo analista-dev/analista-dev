@@ -11,6 +11,7 @@ Analista Programador con 2 años de experiencia dedicado a la creación de aplic
 me impulsa a buscar constantemente las últimas tendencias. Comprometido con el código limpio utilizando buenas 
 practicas. Resolución de problemas y continuo aprendizaje para el crecimiento profesional.
 <br>
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
