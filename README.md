@@ -17,7 +17,7 @@ practicas. Resolución de problemas y continuo aprendizaje para el crecimiento p
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>Contacto
 <p align="center">
   <a href="mailto:">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+    	<img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
   <a href="https://github.com/analista-dev/analista-dev">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
