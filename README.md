@@ -35,7 +35,7 @@ practicas. Resolución de problemas y continuo aprendizaje para el crecimiento p
 <p align="center"> 
     <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>  
     <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"><a>
-    <a href="https://www.getbootstrap.esdocu.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"><a>
+    <a href="https://getbootstrap.esdocu.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"><a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
     <a href="https://es.react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"></a>
 </p>
