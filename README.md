@@ -16,18 +16,10 @@ practicas. Resolución de problemas y continuo aprendizaje para el crecimiento p
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>Contacto
 <p align="center">
-    <a href="mailto:rod.diaz.mig@outlook.com">
-        <img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white">
-    </a>
-    <a href="http://https://github.com/analista-dev/analista-dev">
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-    </a>
-    <a href="http://wa.me/56957751213">
-        <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
-    </a>
-    <a href="http://www.linkedin.com/in/miguel-rodríguez-diaz-7a9578326">
-        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
-    </a>
+    <a href="mailto:rod.diaz.mig@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"></a>
+    <a href="http://github.com/analista-dev/analista-dev"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+    <a href="http://wa.me/56957751213"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
+    <a href="http://www.linkedin.com/in/miguel-rodríguez-diaz-7a9578326"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## 🛠️ Habilidades
